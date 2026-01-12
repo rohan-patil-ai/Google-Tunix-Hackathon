@@ -312,7 +312,7 @@ This is a hackathon submission project, but suggestions and improvements are wel
 
 ## 📞 Contact
 
-- **GitHub**: [@yourusername](https://github.com/rohan-patil-ai)
+- **GitHub**: [@rohan-patil-ai](https://github.com/rohan-patil-ai)
 - **Kaggle**: [@rohanpatil27](https://www.kaggle.com/rohanpatil27)
 - **Email**: rohanpatilrsp18@gmail.com
 
