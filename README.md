@@ -3,9 +3,9 @@
 > **71.3% accuracy on GSM8K using a 2-billion parameter model trained with GRPO on a single TPU**
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Model-20BEFF?logo=kaggle)](https://www.kaggle.com/models/rohanpatil27/gemma-2b-grpo-multisession-final)
-[![Tunix](https://img.shields.io/badge/Built%20with-Tunix-4285F4)](https://github.com/google-deepmind/tunix)
+[![Tunix](https://img.shields.io/badge/Built%20with-Tunix-4285F4)](https://www.kaggle.com/competitions/google-tunix-hackathon)
 
-**Google Tunix Hackathon Submission** | [Video Demo](#) | [Writeup](#key-findings)
+**Google Tunix Hackathon Submission**
 
 ---
 
@@ -286,15 +286,7 @@ final_path = model_download("rohanpatil27/gemma-2b-grpo-multisession-final")
 
 If you use this work in your research, please cite:
 
-```bibtex
-@misc{gemma2b-reasoning-2026,
-  author = {Rohan Patil},
-  title = {Teaching a 2B Model to Think: Training Reasoning Models with Tunix and GRPO},
-  year = {2026},
-  publisher = {GitHub},
-  note = {Google Tunix Hackathon Submission}
-}
-```
+Harsha Sathish, VIDYA P13, Riya Biju, Rohan Sanjay Patil. Making a 2B Parameter Model Actually "Explain". https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/making-a-2b-parameter-model-actually-explain. 2025. Kaggle
 
 ---
 
