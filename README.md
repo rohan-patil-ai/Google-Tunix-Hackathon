@@ -188,13 +188,13 @@ Even in our best run, **11 problems** remained unsolvable (both baseline and con
 
 ### Limitations & Trade-offs ⚠️
 
-1. **Still can't solve 25-30% of problems** - Hard capability limits exist
+1. **Still can't solve 20-30% of problems** - Hard capability limits exist
 2. **Consensus adds 5x inference cost** - Trade-off between accuracy and speed
 3. **Format vs logic learning unclear** - Don't fully understand training dynamics
 
 ### Honest Take
 
-This is a **practical system with clear trade-offs**, not a fundamental breakthrough. The real contribution is demonstrating that inference-time compute can compensate for model size in structured reasoning tasks.
+This is a **practical system with clear trade-offs**. The real contribution is demonstrating that inference-time compute can compensate for model size in structured reasoning tasks.
 
 ---
 
@@ -282,14 +282,6 @@ final_path = model_download("rohanpatil27/gemma-2b-grpo-multisession-final")
 
 ---
 
-## 📚 Citation
-
-If you use this work in your research, please cite:
-
-Harsha Sathish, VIDYA P13, Riya Biju, Rohan Sanjay Patil. Making a 2B Parameter Model Actually "Explain". https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/making-a-2b-parameter-model-actually-explain. 2025. Kaggle
-
----
-
 ## 🤝 Contributing
 
 This is a hackathon submission project, but suggestions and improvements are welcome! Feel free to:
@@ -312,8 +304,9 @@ This is a hackathon submission project, but suggestions and improvements are wel
 
 ## 📞 Contact
 
-- **GitHub**: [@rohan-patil-ai](https://github.com/rohan-patil-ai)
-- **Kaggle**: [@rohanpatil27](https://www.kaggle.com/rohanpatil27)
-- **Email**: rohanpatilrsp18@gmail.com
+- **Email**: rohansanjay.patil@study.thws.de
+- **Email**: vidya.padmanabha@study.thws.de
+- **Email**: harsha.sathish@study.thws.de
+- **Email**: riya.biju@study.thws.de
 
 **Built for Google Tunix Hackathon 2026**
